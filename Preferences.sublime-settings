@@ -1,0 +1,10 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Mariana.tmTheme",
+	"font_face": "Source Code Pro Medium",
+	"font_size": 13,
+	"highlight_modified_tabs": true,
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"remember_full_screen": true,
+	"theme": "Adaptive.sublime-theme"
+}

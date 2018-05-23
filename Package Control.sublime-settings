@@ -1,0 +1,17 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AdvancedNewFile",
+		"Git",
+		"HTML-CSS-JS Prettify",
+		"Laravel Blade Highlighter",
+		"Origami",
+		"Package Control",
+		"Phpcs"
+	]
+}

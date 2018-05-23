@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+```${1:console}
+${2:code}
+```
+]]></content>
+	<tabTrigger>mdls</tabTrigger>
+	<scope>text.html.markdown</scope>
+</snippet>
