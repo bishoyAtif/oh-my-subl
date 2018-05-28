@@ -16,5 +16,15 @@
 	{ "keys": [":", "m", "p", "r"], "command": "travel_to_pane", "args": {"direction": "right"}},
 	{ "keys": [":", "m", "p", "u"], "command": "travel_to_pane", "args": {"direction": "up"}},
 	{ "keys": [":", "m", "p", "d"], "command": "travel_to_pane", "args": {"direction": "down"}},
+
+	// PHP Companion
+	{ "keys": ["f9"], "command": "find_use"},
+	{ "keys": ["f10"], "command": "expand_fqcn"},
+	{ "keys": ["f8"], "command": "insert_php_constructor_property"},
+
+    { "keys": [":", "t", "f"], "command": "phpunit_test_file"},
+    { "keys": [":", "t", "a"], "command": "phpunit_test_suite"},
+    { "keys": [":", "t", "c"], "command": "phpunit_test_cancel"},
+
 ]
 
